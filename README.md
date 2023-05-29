@@ -22,5 +22,9 @@
 <br clear="both">
 <img src="https://profile-counter.glitch.me/Kamyk3215104/count.svg?%22/%3E
 
+###
+<br clear="both">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 ###

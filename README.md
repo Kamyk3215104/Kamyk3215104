@@ -19,9 +19,6 @@
 <img src="https://cdn.discordapp.com/attachments/1112807909483610133/1112821174917943406/2503px-Blender_logo_no_text.png" width="42" alt="html5 logo"  />
 </div>
 
-<br clear="both">
-<img src="https://profile-counter.glitch.me/Kamyk3215104/count.svg?%22/%3E
-
 ###
 <br clear="both">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />

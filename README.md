@@ -20,6 +20,6 @@
 </div>
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/Kamyk3215104/Kamyk3215104/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-counter.glitch.me/flackkdev/count.svg?%22/%3E
 
 ###
